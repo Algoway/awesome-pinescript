@@ -113,6 +113,7 @@
 
 ## Automated Order Execution
 - [PSStrategyX](https://www.tradingview.com/script/ZUqQdIKU-pAulseperformance-PSStrategyX/) - *Backtests and Automates Indicators Automatically*
+- [AlgoWay (TRALADAL)](https://github.com/Algoway/TRALADAL) - *TradingView adapter that converts any indicator conditions into strategy for automated execution via AlgoWay Connector*
 
 ### Open Source
 
